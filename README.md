@@ -1,4 +1,4 @@
-# NN-Project
+# Γεώργιος Γραμμενούδης 4632
 
 # MNIST Digit Classification with TensorFlow
 
